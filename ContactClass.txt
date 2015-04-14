@@ -3,4 +3,6 @@ public class ContactClass
     // Test
 
     // First change to the class
+
+    // Second change to the class
 }
