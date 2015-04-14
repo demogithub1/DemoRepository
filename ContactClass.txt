@@ -1,4 +1,6 @@
 public class ContactClass
 {
     // Test
+
+    // First change to the class
 }
