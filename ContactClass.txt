@@ -5,4 +5,6 @@ public class ContactClass
     // First change to the class
 
     // Second change to the class
+
+    // Third Change to the Class.
 }
